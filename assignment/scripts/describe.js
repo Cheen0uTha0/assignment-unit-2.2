@@ -26,10 +26,11 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We made a variable called name and set Dane as name.
+// We check if name is same value same type as Mary. Dane is not the same as Mary, so
+// console.log('Hi, Mary!'). Will not print
+// We then check else, So
+// We console. log('How do you do?')
 
 //CODE
 /*
