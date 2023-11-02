@@ -179,9 +179,15 @@ if (temp > 39 || time >= 4) {
 // We check if age is greater than or equal to minAge 
 // -- it is, so we console.log 'enter'.
 
+// FIX - const minAge = 21; Instruction ask for minAge set to 21.
+// Should be let minAge = 21;
+
 /*
 let age = 21;
 const minAge = 21;
+
+// FIX - if(minAge <= age); Instruction ask for if age is greater than or equal to minAge.
+// Should be if (age >= minAge) 
 
 if(minAge <= age) {
   console.log('no entry');
