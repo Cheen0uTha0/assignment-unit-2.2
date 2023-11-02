@@ -76,10 +76,16 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We made a variable called isStudent and set true as isStudent.
+// We made a variable called age and set 34 as age.
+// We made a variable called zip and set 55407 as zip.
+// We check if isStudent is same value same type as true and is zip greater than 80000. False, so
+// console.log('You're a student on the West Coast!'). Will not print.
+// We check else if isStudent same value same type as false or age is lessser than 30. False, so
+// console.log('What are your hobbies?'). Will not print.
+// We check else if isStudent same value same type as true. True, so
+// We console.log('Welcome to Prime!')
+// console.log('How about the weather?'). Will not print.
 
 //CODE
 /*
