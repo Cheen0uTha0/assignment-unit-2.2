@@ -141,10 +141,18 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
+// FIX - colorOne = 'red' , instruction ask to set colorOne to 'blue'.
+// Should be colorOne = 'blue';
+// FIX - colorTwo = 'blue' , instruction ask to set colorTwo to 'red'.
+// Should be colorTwo = 'red';
+
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
+
+// FIX - { colorOne = 'purple'; } , instruction ask to set colorOne and colorTwo to 'purple'.
+// Should be { colorOne and colorTwo = 'purple'; }
 
 if (mix === true) {
   colorOne = 'purple';
