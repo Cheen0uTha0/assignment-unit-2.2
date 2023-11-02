@@ -46,10 +46,15 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We made a variable called secret.
+// We made a variable called code and set 123 as code.
+// We check if code is equal to 123. code is 123.
+// We check if code is same value same type as 123. True, so
+// We made secret set to string super. super will print.
+// We made code multiply 2. code is now 246.
+// We check if code is greater than 250. False so,
+// We made secret set as string duper. duper will not print.
+// We console.log(secret)
 
 //CODE
 /*
