@@ -30,7 +30,7 @@ if (number >= 2) {
 // We check if name is same value same type as Mary. Dane is not the same as Mary, so
 // console.log('Hi, Mary!'). Will not print
 // We then check else, So
-// We console. log('How do you do?')
+// We console.log('How do you do?')
 
 //CODE
 /*
