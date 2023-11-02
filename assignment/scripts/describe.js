@@ -163,6 +163,9 @@ if (mix === true) {
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
+// FIX - const time = 4; Instruction ask for time set to 4.
+// Should be let time = 4;
+
 /*
 let temp = 40;
 const time = 4;
